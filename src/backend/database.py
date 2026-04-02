@@ -165,14 +165,14 @@ initial_activities = {
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     },
     "Manga Maniacs": {
-        "description": "Dive into epic adventures, unforgettable heroes, and breathtaking art from the world of Japanese Manga! Whether you're a seasoned otaku or just discovering the magic of graphic novels, join us to read, discuss, and celebrate the stories that have captivated millions worldwide.",
-        "schedule": "Tuesdays, 7:00 PM",
+        "description": "Dive into epic adventures, unforgettable heroes, and breathtaking art from the world of Japanese Manga! From the legendary battles of Dragon Ball Z to the latest shonen classics, whether you're a seasoned otaku or just discovering the magic of graphic novels, join us to read, discuss, and celebrate the stories that have captivated millions worldwide.",
+        "schedule": "Tuesdays, 5:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "20:00"
+            "start_time": "17:00",
+            "end_time": "18:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
